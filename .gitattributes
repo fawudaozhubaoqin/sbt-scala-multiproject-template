@@ -1,0 +1,14 @@
+# Exclude build artifacts
+# Do not edit manually
+public/**/*.html linguist-vendored
+dist/* linguist-vendored
+
+*.map linguist-generated
+*.yml linguist-detectable=false
+
+*.png binary
+*.sh text eol=lf
+
+*.ts linguist-detectable
+*.yaml linguist-detectable=false
+*.jpg binary
