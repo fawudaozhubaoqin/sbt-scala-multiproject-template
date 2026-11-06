@@ -1,0 +1,9 @@
+coverage/
+dist/
+yarn-error.log*
+*.log
+.pnpm-store/
+npm-debug.log*
+.env.local
+*.tgz
+.env
